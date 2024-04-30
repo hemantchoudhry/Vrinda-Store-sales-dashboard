@@ -17,9 +17,10 @@ Welcome to the Vrinda Store Sales Analysis repository! This project provides a d
 2. **Navigate**: Open `analysis/sales_analysis.xlsx` to explore sales analysis and dashboards.
 3. **Interpret**: Use charts, graphs, and tables to interpret sales performance.
 
-## Screenshots
+## Link
 
-![Dashboard 1](analysis/screenshots/dashboard1.png)
+(https://github.com/hemantchoudhry/Vrinda-Store-sales-dashboard/assets/165124115/eb00aff1-02dd-46af-a884-17d45a935087)
+
 
 ## Documentation
 
